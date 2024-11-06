@@ -4,4 +4,3 @@ I wrote this code in Processing using Java to create a program that generates a 
 
 
 
-/Users/darknate87/Documents/Processing/finalProject/finalProjectWithGato/Screenshot 2024-04-30 at 4.47.21 PM copy.png
